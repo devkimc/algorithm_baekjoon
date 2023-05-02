@@ -1,6 +1,8 @@
+package etc;
+
 import java.util.Scanner;
 
-public class Main {
+public class Q2562 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int max = 1;
